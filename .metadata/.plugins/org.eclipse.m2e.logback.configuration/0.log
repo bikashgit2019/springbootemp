@@ -1,0 +1,20 @@
+2021-01-17 12:36:07,173 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-17 12:37:36,124 [Worker-20: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-01-17 12:37:37,116 [Worker-20: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.javaguides:springboot-thymeleaf-crud-web-app:0.0.1-SNAPSHOT @ /home/bikas/git/springbootemp/pom.xml.
+2021-01-17 12:37:37,832 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootemp/src/main/java
+2021-01-17 12:37:37,832 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootemp/src/main/resources
+2021-01-17 12:37:37,836 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootemp/src/main/resources
+2021-01-17 12:37:37,842 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootemp/src/test/java
+2021-01-17 12:37:38,419 [Worker-20: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-01-17 12:37:39,149 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-17 12:37:39,152 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-17 12:37:39,162 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-01-17 12:37:39,166 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-17 12:37:39,167 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bikas/git/springbootemp/src/test/resources
+2021-01-17 12:38:21,315 [Worker-20: Launching Executing test in _home_bikas_git_springbootemp] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bikas/git/springbootemp
+2021-01-17 12:38:21,315 [Worker-20: Launching Executing test in _home_bikas_git_springbootemp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-01-17 12:38:30,373 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-17 12:38:30,376 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-17 12:38:30,377 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-01-17 12:38:30,380 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-17 12:38:30,380 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bikas/git/springbootemp/src/test/resources
